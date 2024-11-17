@@ -1,0 +1,1 @@
+# RPG0018-Por-que-n-o-paralelizar
